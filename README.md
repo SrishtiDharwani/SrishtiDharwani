@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srishtidharwani&label=Profile%20views&color=0e75b6&style=flat" alt="srishtidharwani" /> </p>
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently working on personal projects
 
 - 👯 I’m looking towards gaining some experience
 
