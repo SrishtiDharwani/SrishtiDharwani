@@ -1,5 +1,6 @@
 <!-- ![MasterHead](https://github.com/saadeghi/saadeghi/raw/master/dino.gif) -->
-<img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" width="1400" height="400">
+<!-- <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" width="1400" height="400"> -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%" width="1400" height="400">
 <h1 align="center">Hi 👋, I'm Srishti Dharwani</h1>
 <h3 align="center">I'm a MERN Stack Developer and Student from India!</h3>
 <img align="right" alt="Coding" width="300" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/giphy.gif">
